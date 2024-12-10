@@ -8,7 +8,7 @@ This repository contains scripts to connect and interact with various sensors an
 Starting from Raspberry Pi 5, GPIO has moved from on-chip to the RP1 chip. 
 This hardware change means libraries that access GPIO via memory-mapped registers might no longer work. It is recommended to use updated libraries like gpiozero for compatibility.
 ## ملاحظة:
-اعتبارًا من Raspberry Pi 5، تم نقل واجهة GPIO من داخل الشريحة إلى شريحة RP1.
+اعتبارًا من راسبيري باي 5، تم نقل واجهة GPIO من داخل الشريحة إلى شريحة RP1.
  هذا التغيير في العتاد يعني أن المكتبات التي تعتمد على الوصول إلى GPIO عبر السجلات المعتمدة على الذاكرة قد لا تعمل بعد الآن. يُوصى باستخدام مكتبات محدثة مثل gpiozero لضمان التوافق.
 
 
