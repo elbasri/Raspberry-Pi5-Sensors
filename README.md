@@ -119,7 +119,7 @@ Uses the SPI interface to send structured data, demonstrating bidirectional comm
    ```bash
    python3 script_name.py
    ```
-
+# Dont forget to work inside custum python env !
 
 ## Author
 
